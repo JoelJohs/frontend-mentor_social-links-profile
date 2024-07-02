@@ -9,7 +9,7 @@
 
 ### Links
 
-- Solution URL: [GitHub]()
+- Solution URL: [GitHub](https://github.com/JoelJohs/frontend-mentor_social-links-profile)
 - Live Site URL: [GitHub Pages]()
 
 ## My process
